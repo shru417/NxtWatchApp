@@ -10,8 +10,6 @@ import ThemeContext from '../../context/ThemeContext'
 import Header from '../Header'
 import SideBar from '../SideBar'
 
-
-
 const NotFound = () => (
   <ThemeContext.Consumer>
     {value => {
