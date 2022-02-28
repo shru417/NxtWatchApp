@@ -10,7 +10,7 @@ import ThemeContext from '../../context/ThemeContext'
 import Header from '../Header'
 import SideBar from '../SideBar'
 
-import './index.css'
+
 
 const NotFound = () => (
   <ThemeContext.Consumer>
